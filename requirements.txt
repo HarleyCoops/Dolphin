@@ -1,9 +1,9 @@
-gradio==6.28.0
+gradio==6.29.1
 gradio_pdf==0.0.24
 pymupdf==1.28.2
 loguru==0.7.3
-torch==2.14.0
-transformers==5.17.0
+torch==2.14.1
+transformers==5.18.0
 opencv-python==5.0.0.93
 opencv-python-headless==5.0.0.93
 Pillow==12.3.0
