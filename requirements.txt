@@ -6,7 +6,7 @@ torch==2.14.1
 transformers==5.19.0
 opencv-python==5.0.0.93
 opencv-python-headless==5.0.0.93
-Pillow==12.3.0
+Pillow==13.0.0
 numpy==2.5.4
 spaces
 albumentations==2.0.8
